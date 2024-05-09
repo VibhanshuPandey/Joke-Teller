@@ -20,7 +20,7 @@ html {
     background-repeat: no-repeat;
   }
 
-  button {
+  /* button {
     cursor: pointer;
     outline: none;
     width: 200px;
@@ -33,8 +33,12 @@ html {
     border-radius: 5px;
     box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, 0.2);
   }
+
+  button:hover {
+    filter: brightness(95%);
+  }
   /* Media Query: Tablet / Smaller */
-  @media screen  and (max-width: 1000px){
+  /* @media screen  and (max-width: 1000px){
     .container {
       background-position: center center;
       background-size: cover;
@@ -58,4 +62,4 @@ html {
     left: 0;
     width: 100%;
     height: 100%;
-  }
+  } */
