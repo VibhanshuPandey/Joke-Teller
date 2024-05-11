@@ -14,10 +14,10 @@ html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url('./robot.gif');
+    /* background: url('./robot.gif');
     background-size: contain;
     background-position: left center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
   }
 
   /* button {
