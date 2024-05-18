@@ -19,7 +19,6 @@ const VoiceRSS={speech:function(e){this._validate(e),this._request(e)},_validate
 // }
 // test();
 
-
 // Get jokes from joke api
 async function getJokes() {
     let joke = '';
